@@ -1,0 +1,6 @@
+ac344070cf35813f7faf1ef3bb2548ac  DEBIAN/dpkg-divert
+db7dd88b65c80c0c78ebefc00cfaa028  DEBIAN/preinst
+c417beacc3fc61efdbae5ec627a76499  DEBIAN/postrm
+d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
+10afc4276eb53c4a020ade2c058bbfef  DEBIAN/control
+ba5328b364fc732866456693476b7f8f  usr/bin/init-zram-swapping
