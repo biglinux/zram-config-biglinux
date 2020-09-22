@@ -33,9 +33,9 @@ for i in $(seq ${NRDEVICES}); do
   swapon -p 100 /dev/zram${DEVNUMBER}
 done
 
-modprobe bfq
-echo bfq > /sys/class/block/sda/queue/scheduler
-echo mq-bfq > /sys/class/block/sda/queue/scheduler
+#modprobe bfq
+#echo bfq > /sys/class/block/sda/queue/scheduler
+#echo mq-bfq > /sys/class/block/sda/queue/scheduler
 
 
 #echo 1 >/proc/sys/vm/compact_memory
