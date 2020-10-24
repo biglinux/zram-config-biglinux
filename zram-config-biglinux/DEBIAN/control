@@ -1,10 +1,10 @@
 Package: zram-config-biglinux
-Version: 1.0.0-1big3
+Version: 1.0.0-1big4
 Depends: zram-config
 Architecture: all
 Maintainer: Bruno Goncalves <www.biglinux.com.br>
 Section: admin
 Priority: optional
-Installed-Size:28
+Installed-Size:32
 Description: Improve zram configuration to BigLinux and io scheduler
 

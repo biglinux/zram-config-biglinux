@@ -1,7 +1,8 @@
-73fd446d38b17d5cdc8711409277e94d  DEBIAN/control
 ac344070cf35813f7faf1ef3bb2548ac  DEBIAN/dpkg-divert
 d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
 c417beacc3fc61efdbae5ec627a76499  DEBIAN/postrm
 db7dd88b65c80c0c78ebefc00cfaa028  DEBIAN/preinst
-ba5328b364fc732866456693476b7f8f  usr/bin/init-zram-swapping
+052f5e6a87512b558ee22ed15b1211cc  DEBIAN/control
+8bd0b3c1396ea069149b83b263446179  usr/bin/init-zram-swapping
 e9a1bae960b56ce8e4b9d3a661a3ae81  etc/sysctl.d/11-network-tweaks.conf
+7bbb8bd395ad375e86d112716c1a9b9c  etc/udev/rules.d/60-ioschedulers.rules
