@@ -11,8 +11,6 @@ else
 fi
 modprobe zram $MODPROBE_ARGS
 
-# Calculate memory to use for zram (1/2 of ram)
-#totalmem=`LC_ALL=C free | grep -e "^Mem:" | sed -e 's/^Mem: *//' -e 's/  *.*//'`
 
 #if [ "$mem" > "3000000" ]; then
     mem=$(((1500000 / ${NRDEVICES}) * 1024))

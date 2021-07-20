@@ -1,5 +1,5 @@
 Package: zram-config-biglinux
-Version: 1.0.0-1big4
+Version: 1.0.0-1big6
 Depends: zram-config
 Architecture: all
 Maintainer: Bruno Goncalves <www.biglinux.com.br>
